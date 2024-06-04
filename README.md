@@ -1,3 +1,3 @@
 # PDU
 ## zdjęcia
-![](PDU.png)
+![](PDU.jpg)
